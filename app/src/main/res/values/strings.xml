@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TaskManagerTheme</string>
+    <string name="t1">All tasks completed</string>
+    <string name="t2">Nise work!</string>
+</resources>
